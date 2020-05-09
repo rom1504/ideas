@@ -1,0 +1,9 @@
+# Dichotomic Tv Show Progress Finder
+
+Did you ever stop a tv show a few years ago, and now a new season is out but you don't know when you stopped and you'd like to start there.
+What's the best way to know which was the last episode you saw ? Ideally you used a service such as https://trakt.tv/ to keep that information, but it may happen that you didn't.
+
+Idea: use a dichotomic search to find that episode you last saw. First show the user the episode in the middle of the series (just a few minutes at the beginning or the middle). If she didn't see that episode, then it's before, got to the half of the first half, etc.
+Most series have less than 100 episodes, so it should take only 6 try to find the right episode. It should take only a minute to know whether the episode was seen or not, so within 5minutes the right episode will have been found.
+
+This requires an access to all the episode of the tv show.
